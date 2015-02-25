@@ -1,0 +1,19 @@
+body{}
+
+p{
+	display: inline;
+	float: left;
+	margin: 10px;}
+
+li{
+	float: right;
+	display: inline;
+	margin: 10px;}
+
+a{
+	text-decoration: none;
+}
+
+a:hover{
+	text-decoration: underline;
+}
